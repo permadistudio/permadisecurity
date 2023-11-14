@@ -1,0 +1,217 @@
+[Tue Nov 14 08:10:32 2023] PHP 8.2.10 Development Server (http://localhost:2525) started
+[Tue Nov 14 08:11:54 2023] 127.0.0.1:50486 Accepted
+[Tue Nov 14 08:11:54 2023] 127.0.0.1:50486 [302]: GET /
+[Tue Nov 14 08:11:54 2023] 127.0.0.1:50486 Closing
+[Tue Nov 14 08:11:54 2023] 127.0.0.1:50500 Accepted
+[Tue Nov 14 08:11:54 2023] 127.0.0.1:50500 [200]: GET /login.php
+[Tue Nov 14 08:11:54 2023] 127.0.0.1:50500 Closing
+[Tue Nov 14 08:11:54 2023] 127.0.0.1:50502 Accepted
+[Tue Nov 14 08:11:54 2023] 127.0.0.1:50502 [200]: GET /assets/css/bootstrap.min.css
+[Tue Nov 14 08:11:54 2023] 127.0.0.1:50502 Closing
+[Tue Nov 14 08:11:54 2023] 127.0.0.1:50508 Accepted
+[Tue Nov 14 08:11:54 2023] 127.0.0.1:50508 [200]: GET /assets/css/style.css
+[Tue Nov 14 08:11:54 2023] 127.0.0.1:50508 Closing
+[Tue Nov 14 08:11:55 2023] 127.0.0.1:50518 Accepted
+[Tue Nov 14 08:11:55 2023] 127.0.0.1:50518 [404]: GET /favicon.ico - No such file or directory
+[Tue Nov 14 08:11:55 2023] 127.0.0.1:50518 Closing
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44248 Accepted
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44248 [200]: POST /login.php
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44248 Closing
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44258 Accepted
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44258 [200]: GET /assets/css/bootstrap.min.css
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44258 Closing
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44266 Accepted
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44266 [200]: GET /assets/css/style.css
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44266 Closing
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44272 Accepted
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44272 [200]: GET /panel.php
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44272 Closing
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44276 Accepted
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44276 [200]: GET /assets/css/bootstrap.min.css
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44276 Closing
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44278 Accepted
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44278 [200]: GET /assets/css/light-theme.min.css
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44278 Closing
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44294 Accepted
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44294 [200]: GET /assets/js/jquery.min.js
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44294 Closing
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44308 Accepted
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44308 [200]: GET /assets/js/script.js
+[Tue Nov 14 08:12:01 2023] 127.0.0.1:44308 Closing
+[Tue Nov 14 08:12:02 2023] 127.0.0.1:44310 Accepted
+[Tue Nov 14 08:12:02 2023] 127.0.0.1:44310 [200]: GET /assets/js/growl-notification.min.js
+[Tue Nov 14 08:12:02 2023] 127.0.0.1:44310 Closing
+[Tue Nov 14 08:12:02 2023] 127.0.0.1:44314 Accepted
+[Tue Nov 14 08:12:02 2023] 127.0.0.1:44314 [200]: GET /assets/js/sweetalert2.min.js
+[Tue Nov 14 08:12:02 2023] 127.0.0.1:44314 Closing
+[Tue Nov 14 08:12:02 2023] 127.0.0.1:44328 Accepted
+[Tue Nov 14 08:12:02 2023] 127.0.0.1:44328 [200]: POST /list_templates.php
+[Tue Nov 14 08:12:02 2023] 127.0.0.1:44328 Closing
+[Tue Nov 14 08:12:02 2023] 127.0.0.1:44336 Accepted
+[Tue Nov 14 08:12:02 2023] 127.0.0.1:44336 [200]: GET /Settings.json
+[Tue Nov 14 08:12:02 2023] 127.0.0.1:44336 Closing
+[Tue Nov 14 08:12:05 2023] 127.0.0.1:44350 Accepted
+[Tue Nov 14 08:12:05 2023] 127.0.0.1:44350 [200]: POST /receiver.php
+[Tue Nov 14 08:12:05 2023] 127.0.0.1:44350 Closing
+[Tue Nov 14 08:12:07 2023] 127.0.0.1:44356 Accepted
+[Tue Nov 14 08:12:07 2023] 127.0.0.1:44356 [200]: POST /receiver.php
+[Tue Nov 14 08:12:07 2023] 127.0.0.1:44356 Closing
+[Tue Nov 14 08:12:09 2023] 127.0.0.1:44368 Accepted
+[Tue Nov 14 08:12:09 2023] 127.0.0.1:44368 [200]: POST /receiver.php
+[Tue Nov 14 08:12:09 2023] 127.0.0.1:44368 Closing
+[Tue Nov 14 08:12:11 2023] 127.0.0.1:48296 Accepted
+[Tue Nov 14 08:12:11 2023] 127.0.0.1:48296 [200]: POST /receiver.php
+[Tue Nov 14 08:12:11 2023] 127.0.0.1:48296 Closing
+[Tue Nov 14 08:12:13 2023] 127.0.0.1:48308 Accepted
+[Tue Nov 14 08:12:13 2023] 127.0.0.1:48308 [200]: POST /receiver.php
+[Tue Nov 14 08:12:13 2023] 127.0.0.1:48308 Closing
+[Tue Nov 14 08:12:15 2023] 127.0.0.1:48320 Accepted
+[Tue Nov 14 08:12:15 2023] 127.0.0.1:48320 [200]: POST /receiver.php
+[Tue Nov 14 08:12:15 2023] 127.0.0.1:48320 Closing
+[Tue Nov 14 08:12:18 2023] 127.0.0.1:48332 Accepted
+[Tue Nov 14 08:12:18 2023] 127.0.0.1:48332 [200]: POST /receiver.php
+[Tue Nov 14 08:12:18 2023] 127.0.0.1:48332 Closing
+[Tue Nov 14 08:12:19 2023] 127.0.0.1:48338 Accepted
+[Tue Nov 14 08:12:19 2023] 127.0.0.1:48338 [200]: GET /templates/nearyou/index.html
+[Tue Nov 14 08:12:19 2023] 127.0.0.1:48338 Closing
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48354 Accepted
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48354 [200]: POST /receiver.php
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48354 Closing
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48368 Accepted
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48368 [200]: GET /templates/nearyou/fonts.css
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48368 Closing
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48382 Accepted
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48382 [200]: GET /templates/nearyou/main.css
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48382 Closing
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48396 Accepted
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48396 [200]: GET /assets/js/particles.min.js
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48396 Closing
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48410 Accepted
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48410 [200]: GET /assets/js/loc.js
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48410 Closing
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48422 Accepted
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48422 [200]: GET /assets/js/jquery.min.js
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48422 Closing
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48424 Accepted
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48424 [200]: GET /assets/js/warpspeed.min.js
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48424 Closing
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48436 Accepted
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48436 [200]: GET /assets/js/location.js
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48436 Closing
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48442 Accepted
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48442 [200]: GET /assets/js/client.min.js
+[Tue Nov 14 08:12:20 2023] 127.0.0.1:48442 Closing
+[Tue Nov 14 08:12:22 2023] 127.0.0.1:44348 Accepted
+[Tue Nov 14 08:12:22 2023] 127.0.0.1:44348 [200]: GET /templates/nearyou/flat-location-logo-152-234349.png
+[Tue Nov 14 08:12:22 2023] 127.0.0.1:44348 Closing
+[Tue Nov 14 08:12:22 2023] 127.0.0.1:44360 Accepted
+[Tue Nov 14 08:12:22 2023] 127.0.0.1:44360 [200]: POST /receiver.php
+[Tue Nov 14 08:12:22 2023] 127.0.0.1:44360 Closing
+[Tue Nov 14 08:12:23 2023] 127.0.0.1:44376 Accepted
+[Tue Nov 14 08:12:23 2023] 127.0.0.1:44376 [200]: POST /templates/nearyou/handler.php
+[Tue Nov 14 08:12:23 2023] 127.0.0.1:44376 Closing
+[Tue Nov 14 08:12:24 2023] 127.0.0.1:44386 Accepted
+[Tue Nov 14 08:12:24 2023] 127.0.0.1:44386 [200]: POST /receiver.php
+[Tue Nov 14 08:12:24 2023] 127.0.0.1:44386 Closing
+[Tue Nov 14 08:12:26 2023] 127.0.0.1:44400 Accepted
+[Tue Nov 14 08:12:26 2023] 127.0.0.1:44400 [200]: POST /receiver.php
+[Tue Nov 14 08:12:26 2023] 127.0.0.1:44400 Closing
+[Tue Nov 14 08:12:27 2023] 127.0.0.1:44412 Accepted
+[Tue Nov 14 08:12:27 2023] 127.0.0.1:44412 [200]: POST /templates/nearyou/handler.php
+[Tue Nov 14 08:12:27 2023] 127.0.0.1:44412 Closing
+[Tue Nov 14 08:12:28 2023] 127.0.0.1:44424 Accepted
+[Tue Nov 14 08:12:28 2023] 127.0.0.1:44424 [200]: POST /receiver.php
+[Tue Nov 14 08:12:28 2023] 127.0.0.1:44424 Closing
+[Tue Nov 14 08:12:30 2023] 127.0.0.1:44426 Accepted
+[Tue Nov 14 08:12:30 2023] 127.0.0.1:44426 [200]: POST /receiver.php
+[Tue Nov 14 08:12:30 2023] 127.0.0.1:44426 Closing
+[Tue Nov 14 08:12:31 2023] 127.0.0.1:44610 Accepted
+[Tue Nov 14 08:12:31 2023] 127.0.0.1:44610 [200]: POST /receiver.php
+[Tue Nov 14 08:12:31 2023] 127.0.0.1:44610 Closing
+[Tue Nov 14 08:12:33 2023] 127.0.0.1:44620 Accepted
+[Tue Nov 14 08:12:33 2023] 127.0.0.1:44620 [200]: POST /receiver.php
+[Tue Nov 14 08:12:33 2023] 127.0.0.1:44620 Closing
+[Tue Nov 14 08:12:35 2023] 127.0.0.1:44636 Accepted
+[Tue Nov 14 08:12:35 2023] 127.0.0.1:44636 [200]: POST /receiver.php
+[Tue Nov 14 08:12:35 2023] 127.0.0.1:44636 Closing
+[Tue Nov 14 08:12:37 2023] 127.0.0.1:44642 Accepted
+[Tue Nov 14 08:12:37 2023] 127.0.0.1:44642 [200]: POST /receiver.php
+[Tue Nov 14 08:12:37 2023] 127.0.0.1:44642 Closing
+[Tue Nov 14 08:12:39 2023] 127.0.0.1:44652 Accepted
+[Tue Nov 14 08:12:39 2023] 127.0.0.1:44652 [200]: POST /receiver.php
+[Tue Nov 14 08:12:39 2023] 127.0.0.1:44652 Closing
+[Tue Nov 14 08:12:41 2023] 127.0.0.1:39992 Accepted
+[Tue Nov 14 08:12:41 2023] 127.0.0.1:39992 [200]: POST /receiver.php
+[Tue Nov 14 08:12:41 2023] 127.0.0.1:39992 Closing
+[Tue Nov 14 08:12:43 2023] 127.0.0.1:39996 Accepted
+[Tue Nov 14 08:12:43 2023] 127.0.0.1:39996 [200]: POST /receiver.php
+[Tue Nov 14 08:12:43 2023] 127.0.0.1:39996 Closing
+[Tue Nov 14 08:12:45 2023] 127.0.0.1:40012 Accepted
+[Tue Nov 14 08:12:45 2023] 127.0.0.1:40012 [200]: POST /receiver.php
+[Tue Nov 14 08:12:45 2023] 127.0.0.1:40012 Closing
+[Tue Nov 14 08:12:47 2023] 127.0.0.1:40014 Accepted
+[Tue Nov 14 08:12:47 2023] 127.0.0.1:40014 [200]: POST /receiver.php
+[Tue Nov 14 08:12:47 2023] 127.0.0.1:40014 Closing
+[Tue Nov 14 08:12:50 2023] 127.0.0.1:40018 Accepted
+[Tue Nov 14 08:12:50 2023] 127.0.0.1:40018 [200]: POST /receiver.php
+[Tue Nov 14 08:12:50 2023] 127.0.0.1:40018 Closing
+[Tue Nov 14 08:12:52 2023] 127.0.0.1:47396 Accepted
+[Tue Nov 14 08:12:52 2023] 127.0.0.1:47396 [200]: POST /receiver.php
+[Tue Nov 14 08:12:52 2023] 127.0.0.1:47396 Closing
+[Tue Nov 14 08:12:54 2023] 127.0.0.1:47400 Accepted
+[Tue Nov 14 08:12:54 2023] 127.0.0.1:47400 [200]: POST /receiver.php
+[Tue Nov 14 08:12:54 2023] 127.0.0.1:47400 Closing
+[Tue Nov 14 08:12:56 2023] 127.0.0.1:47406 Accepted
+[Tue Nov 14 08:12:56 2023] 127.0.0.1:47406 [200]: POST /receiver.php
+[Tue Nov 14 08:12:56 2023] 127.0.0.1:47406 Closing
+[Tue Nov 14 08:12:58 2023] 127.0.0.1:47414 Accepted
+[Tue Nov 14 08:12:58 2023] 127.0.0.1:47414 [200]: POST /receiver.php
+[Tue Nov 14 08:12:58 2023] 127.0.0.1:47414 Closing
+[Tue Nov 14 08:13:00 2023] 127.0.0.1:47416 Accepted
+[Tue Nov 14 08:13:00 2023] 127.0.0.1:47416 [200]: POST /receiver.php
+[Tue Nov 14 08:13:00 2023] 127.0.0.1:47416 Closing
+[Tue Nov 14 08:13:02 2023] 127.0.0.1:39378 Accepted
+[Tue Nov 14 08:13:02 2023] 127.0.0.1:39378 [200]: POST /receiver.php
+[Tue Nov 14 08:13:02 2023] 127.0.0.1:39378 Closing
+[Tue Nov 14 08:13:04 2023] 127.0.0.1:39388 Accepted
+[Tue Nov 14 08:13:04 2023] 127.0.0.1:39388 [200]: POST /receiver.php
+[Tue Nov 14 08:13:04 2023] 127.0.0.1:39388 Closing
+[Tue Nov 14 08:13:06 2023] 127.0.0.1:39404 Accepted
+[Tue Nov 14 08:13:06 2023] 127.0.0.1:39404 [200]: POST /receiver.php
+[Tue Nov 14 08:13:06 2023] 127.0.0.1:39404 Closing
+[Tue Nov 14 08:13:08 2023] 127.0.0.1:39406 Accepted
+[Tue Nov 14 08:13:08 2023] 127.0.0.1:39406 [200]: POST /receiver.php
+[Tue Nov 14 08:13:08 2023] 127.0.0.1:39406 Closing
+[Tue Nov 14 08:13:10 2023] 127.0.0.1:39420 Accepted
+[Tue Nov 14 08:13:10 2023] 127.0.0.1:39420 [200]: POST /receiver.php
+[Tue Nov 14 08:13:10 2023] 127.0.0.1:39420 Closing
+[Tue Nov 14 08:13:12 2023] 127.0.0.1:44490 Accepted
+[Tue Nov 14 08:13:12 2023] 127.0.0.1:44490 [200]: POST /receiver.php
+[Tue Nov 14 08:13:12 2023] 127.0.0.1:44490 Closing
+[Tue Nov 14 08:13:13 2023] 127.0.0.1:44496 Accepted
+[Tue Nov 14 08:13:13 2023] 127.0.0.1:44496 [200]: POST /receiver.php
+[Tue Nov 14 08:13:13 2023] 127.0.0.1:44496 Closing
+[Tue Nov 14 08:13:15 2023] 127.0.0.1:44508 Accepted
+[Tue Nov 14 08:13:15 2023] 127.0.0.1:44508 [200]: POST /receiver.php
+[Tue Nov 14 08:13:15 2023] 127.0.0.1:44508 Closing
+[Tue Nov 14 08:13:17 2023] 127.0.0.1:44510 Accepted
+[Tue Nov 14 08:13:17 2023] 127.0.0.1:44510 [200]: POST /receiver.php
+[Tue Nov 14 08:13:17 2023] 127.0.0.1:44510 Closing
+[Tue Nov 14 08:13:19 2023] 127.0.0.1:44514 Accepted
+[Tue Nov 14 08:13:19 2023] 127.0.0.1:44514 [200]: POST /receiver.php
+[Tue Nov 14 08:13:19 2023] 127.0.0.1:44514 Closing
+[Tue Nov 14 08:13:21 2023] 127.0.0.1:34472 Accepted
+[Tue Nov 14 08:13:21 2023] 127.0.0.1:34472 [200]: POST /receiver.php
+[Tue Nov 14 08:13:21 2023] 127.0.0.1:34472 Closing
+[Tue Nov 14 08:13:24 2023] 127.0.0.1:34476 Accepted
+[Tue Nov 14 08:13:24 2023] 127.0.0.1:34476 [200]: POST /receiver.php
+[Tue Nov 14 08:13:24 2023] 127.0.0.1:34476 Closing
+[Tue Nov 14 08:13:26 2023] 127.0.0.1:34490 Accepted
+[Tue Nov 14 08:13:26 2023] 127.0.0.1:34490 [200]: POST /receiver.php
+[Tue Nov 14 08:13:26 2023] 127.0.0.1:34490 Closing
+[Tue Nov 14 08:13:28 2023] 127.0.0.1:34502 Accepted
+[Tue Nov 14 08:13:28 2023] 127.0.0.1:34502 [200]: POST /receiver.php
+[Tue Nov 14 08:13:28 2023] 127.0.0.1:34502 Closing
+[Tue Nov 14 08:13:30 2023] 127.0.0.1:34504 Accepted
+[Tue Nov 14 08:13:30 2023] 127.0.0.1:34504 [200]: POST /receiver.php
+[Tue Nov 14 08:13:30 2023] 127.0.0.1:34504 Closing

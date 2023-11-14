@@ -1,0 +1,316 @@
+[Tue Nov 14 07:23:56 2023] PHP 8.2.10 Development Server (http://localhost:2525) started
+[Tue Nov 14 07:24:10 2023] 127.0.0.1:57254 Accepted
+[Tue Nov 14 07:24:10 2023] 127.0.0.1:57254 [302]: GET /
+[Tue Nov 14 07:24:10 2023] 127.0.0.1:57254 Closing
+[Tue Nov 14 07:24:10 2023] 127.0.0.1:57258 Accepted
+[Tue Nov 14 07:24:10 2023] 127.0.0.1:57258 [200]: GET /login.php
+[Tue Nov 14 07:24:10 2023] 127.0.0.1:57258 Closing
+[Tue Nov 14 07:24:10 2023] 127.0.0.1:57270 Accepted
+[Tue Nov 14 07:24:10 2023] 127.0.0.1:57270 [200]: GET /assets/css/bootstrap.min.css
+[Tue Nov 14 07:24:10 2023] 127.0.0.1:57270 Closing
+[Tue Nov 14 07:24:10 2023] 127.0.0.1:57276 Accepted
+[Tue Nov 14 07:24:10 2023] 127.0.0.1:57276 [200]: GET /assets/css/style.css
+[Tue Nov 14 07:24:10 2023] 127.0.0.1:57276 Closing
+[Tue Nov 14 07:24:11 2023] 127.0.0.1:57286 Accepted
+[Tue Nov 14 07:24:11 2023] 127.0.0.1:57286 [404]: GET /favicon.ico - No such file or directory
+[Tue Nov 14 07:24:11 2023] 127.0.0.1:57286 Closing
+[Tue Nov 14 07:24:11 2023] 127.0.0.1:57298 Accepted
+[Tue Nov 14 07:24:14 2023] 127.0.0.1:57298 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Nov 14 07:24:14 2023] 127.0.0.1:57298 Closing
+[Tue Nov 14 07:24:50 2023] 127.0.0.1:37566 Accepted
+[Tue Nov 14 07:24:50 2023] 127.0.0.1:37566 [200]: POST /login.php
+[Tue Nov 14 07:24:50 2023] 127.0.0.1:37566 Closing
+[Tue Nov 14 07:24:50 2023] 127.0.0.1:37572 Accepted
+[Tue Nov 14 07:24:50 2023] 127.0.0.1:37572 [200]: GET /assets/css/bootstrap.min.css
+[Tue Nov 14 07:24:50 2023] 127.0.0.1:37572 Closing
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37580 Accepted
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37580 [200]: GET /assets/css/style.css
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37580 Closing
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37582 Accepted
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37582 [200]: GET /panel.php
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37582 Closing
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37592 Accepted
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37592 [200]: GET /assets/css/light-theme.min.css
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37592 Closing
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37598 Accepted
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37598 [200]: GET /assets/css/bootstrap.min.css
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37598 Closing
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37612 Accepted
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37612 [200]: GET /assets/js/growl-notification.min.js
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37628 Accepted
+[Tue Nov 14 07:24:51 2023] 127.0.0.1:37612 Closing
+[Tue Nov 14 07:24:52 2023] 127.0.0.1:37628 [200]: GET /assets/js/script.js
+[Tue Nov 14 07:24:52 2023] 127.0.0.1:37628 Closing
+[Tue Nov 14 07:24:52 2023] 127.0.0.1:37634 Accepted
+[Tue Nov 14 07:24:52 2023] 127.0.0.1:37634 [200]: GET /assets/js/jquery.min.js
+[Tue Nov 14 07:24:52 2023] 127.0.0.1:37648 Accepted
+[Tue Nov 14 07:24:52 2023] 127.0.0.1:37634 Closing
+[Tue Nov 14 07:24:52 2023] 127.0.0.1:37648 [200]: GET /assets/js/sweetalert2.min.js
+[Tue Nov 14 07:24:52 2023] 127.0.0.1:37648 Closing
+[Tue Nov 14 07:24:52 2023] 127.0.0.1:37656 Accepted
+[Tue Nov 14 07:24:52 2023] 127.0.0.1:37656 [200]: POST /list_templates.php
+[Tue Nov 14 07:24:52 2023] 127.0.0.1:37656 Closing
+[Tue Nov 14 07:24:52 2023] 127.0.0.1:37666 Accepted
+[Tue Nov 14 07:24:52 2023] 127.0.0.1:37666 [200]: GET /Settings.json
+[Tue Nov 14 07:24:52 2023] 127.0.0.1:37666 Closing
+[Tue Nov 14 07:24:52 2023] 127.0.0.1:37672 Accepted
+[Tue Nov 14 07:24:54 2023] 127.0.0.1:37672 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Nov 14 07:24:54 2023] 127.0.0.1:37672 Closing
+[Tue Nov 14 07:24:55 2023] 127.0.0.1:37674 Accepted
+[Tue Nov 14 07:24:55 2023] 127.0.0.1:37674 [200]: POST /receiver.php
+[Tue Nov 14 07:24:55 2023] 127.0.0.1:37674 Closing
+[Tue Nov 14 07:24:55 2023] 127.0.0.1:38986 Accepted
+[Tue Nov 14 07:24:57 2023] 127.0.0.1:38986 [200]: POST /receiver.php
+[Tue Nov 14 07:24:57 2023] 127.0.0.1:38986 Closing
+[Tue Nov 14 07:24:59 2023] 127.0.0.1:39000 Accepted
+[Tue Nov 14 07:24:59 2023] 127.0.0.1:39000 [200]: POST /receiver.php
+[Tue Nov 14 07:24:59 2023] 127.0.0.1:39000 Closing
+[Tue Nov 14 07:24:59 2023] 127.0.0.1:39008 Accepted
+[Tue Nov 14 07:25:01 2023] 127.0.0.1:39008 [200]: POST /receiver.php
+[Tue Nov 14 07:25:01 2023] 127.0.0.1:39008 Closing
+[Tue Nov 14 07:25:03 2023] 127.0.0.1:39024 Accepted
+[Tue Nov 14 07:25:03 2023] 127.0.0.1:39024 [200]: POST /receiver.php
+[Tue Nov 14 07:25:03 2023] 127.0.0.1:39024 Closing
+[Tue Nov 14 07:25:03 2023] 127.0.0.1:39030 Accepted
+[Tue Nov 14 07:25:03 2023] 127.0.0.1:39046 Accepted
+[Tue Nov 14 07:25:03 2023] 127.0.0.1:39046 [200]: GET /templates/camera_temp/index.html
+[Tue Nov 14 07:25:03 2023] 127.0.0.1:39046 Closing
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39030 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39030 Closing
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39048 Accepted
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39048 [200]: GET /templates/camera_temp/style.css
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39048 Closing
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39064 Accepted
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39070 Accepted
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39064 [200]: GET /templates/camera_temp/all.css
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39076 Accepted
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39064 Closing
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39070 [200]: GET /assets/js/jquery.min.js
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39076 [200]: GET /assets/js/client.min.js
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39070 Closing
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39076 Closing
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39082 Accepted
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39094 Accepted
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39094 [200]: GET /assets/js/loc.js
+[Tue Nov 14 07:25:04 2023] 127.0.0.1:39094 Closing
+[Tue Nov 14 07:25:05 2023] 127.0.0.1:39082 [404]: GET /templates/webfonts/fa-solid-900.woff2 - No such file or directory
+[Tue Nov 14 07:25:05 2023] 127.0.0.1:39082 Closing
+[Tue Nov 14 07:25:05 2023] 127.0.0.1:39098 Accepted
+[Tue Nov 14 07:25:05 2023] 127.0.0.1:39098 [404]: GET /templates/webfonts/fa-solid-900.woff - No such file or directory
+[Tue Nov 14 07:25:05 2023] 127.0.0.1:39098 Closing
+[Tue Nov 14 07:25:05 2023] 127.0.0.1:55224 Accepted
+[Tue Nov 14 07:25:05 2023] 127.0.0.1:55224 [200]: POST /receiver.php
+[Tue Nov 14 07:25:05 2023] 127.0.0.1:55224 Closing
+[Tue Nov 14 07:25:05 2023] 127.0.0.1:55226 Accepted
+[Tue Nov 14 07:25:05 2023] 127.0.0.1:55226 [404]: GET /templates/webfonts/fa-solid-900.ttf - No such file or directory
+[Tue Nov 14 07:25:05 2023] 127.0.0.1:55226 Closing
+[Tue Nov 14 07:25:05 2023] 127.0.0.1:55228 Accepted
+[Tue Nov 14 07:25:05 2023] 127.0.0.1:55242 Accepted
+[Tue Nov 14 07:25:07 2023] 127.0.0.1:55228 [200]: POST /receiver.php
+[Tue Nov 14 07:25:07 2023] 127.0.0.1:55228 Closing
+[Tue Nov 14 07:25:07 2023] 127.0.0.1:55242 [200]: POST /templates/camera_temp/handler.php
+[Tue Nov 14 07:25:07 2023] 127.0.0.1:55242 Closing
+[Tue Nov 14 07:25:09 2023] 127.0.0.1:55256 Accepted
+[Tue Nov 14 07:25:09 2023] 127.0.0.1:55256 [200]: POST /receiver.php
+[Tue Nov 14 07:25:09 2023] 127.0.0.1:55256 Closing
+[Tue Nov 14 07:25:09 2023] 127.0.0.1:55270 Accepted
+[Tue Nov 14 07:25:11 2023] 127.0.0.1:55270 [200]: POST /receiver.php
+[Tue Nov 14 07:25:11 2023] 127.0.0.1:55270 Closing
+[Tue Nov 14 07:25:13 2023] 127.0.0.1:55272 Accepted
+[Tue Nov 14 07:25:13 2023] 127.0.0.1:55272 [200]: POST /receiver.php
+[Tue Nov 14 07:25:13 2023] 127.0.0.1:55272 Closing
+[Tue Nov 14 07:25:13 2023] 127.0.0.1:55284 Accepted
+[Tue Nov 14 07:25:14 2023] 127.0.0.1:55284 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Nov 14 07:25:14 2023] 127.0.0.1:55284 Closing
+[Tue Nov 14 07:25:15 2023] 127.0.0.1:55300 Accepted
+[Tue Nov 14 07:25:15 2023] 127.0.0.1:55300 [200]: POST /receiver.php
+[Tue Nov 14 07:25:15 2023] 127.0.0.1:55300 Closing
+[Tue Nov 14 07:25:15 2023] 127.0.0.1:43374 Accepted
+[Tue Nov 14 07:25:17 2023] 127.0.0.1:43374 [200]: POST /receiver.php
+[Tue Nov 14 07:25:17 2023] 127.0.0.1:43374 Closing
+[Tue Nov 14 07:25:19 2023] 127.0.0.1:43388 Accepted
+[Tue Nov 14 07:25:19 2023] 127.0.0.1:43388 [200]: POST /receiver.php
+[Tue Nov 14 07:25:19 2023] 127.0.0.1:43388 Closing
+[Tue Nov 14 07:25:19 2023] 127.0.0.1:43392 Accepted
+[Tue Nov 14 07:25:21 2023] 127.0.0.1:43392 [200]: POST /receiver.php
+[Tue Nov 14 07:25:21 2023] 127.0.0.1:43392 Closing
+[Tue Nov 14 07:25:23 2023] 127.0.0.1:43394 Accepted
+[Tue Nov 14 07:25:23 2023] 127.0.0.1:43394 [200]: POST /receiver.php
+[Tue Nov 14 07:25:23 2023] 127.0.0.1:43394 Closing
+[Tue Nov 14 07:25:23 2023] 127.0.0.1:43406 Accepted
+[Tue Nov 14 07:25:24 2023] 127.0.0.1:43406 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Nov 14 07:25:24 2023] 127.0.0.1:43406 Closing
+[Tue Nov 14 07:25:25 2023] 127.0.0.1:43412 Accepted
+[Tue Nov 14 07:25:25 2023] 127.0.0.1:43412 [200]: POST /receiver.php
+[Tue Nov 14 07:25:25 2023] 127.0.0.1:43412 Closing
+[Tue Nov 14 07:25:25 2023] 127.0.0.1:59602 Accepted
+[Tue Nov 14 07:25:27 2023] 127.0.0.1:59602 [200]: POST /receiver.php
+[Tue Nov 14 07:25:27 2023] 127.0.0.1:59602 Closing
+[Tue Nov 14 07:25:29 2023] 127.0.0.1:59614 Accepted
+[Tue Nov 14 07:25:29 2023] 127.0.0.1:59614 [200]: POST /receiver.php
+[Tue Nov 14 07:25:29 2023] 127.0.0.1:59614 Closing
+[Tue Nov 14 07:25:29 2023] 127.0.0.1:59622 Accepted
+[Tue Nov 14 07:25:31 2023] 127.0.0.1:59622 [200]: POST /receiver.php
+[Tue Nov 14 07:25:31 2023] 127.0.0.1:59622 Closing
+[Tue Nov 14 07:25:33 2023] 127.0.0.1:59626 Accepted
+[Tue Nov 14 07:25:33 2023] 127.0.0.1:59626 [200]: POST /receiver.php
+[Tue Nov 14 07:25:33 2023] 127.0.0.1:59626 Closing
+[Tue Nov 14 07:25:33 2023] 127.0.0.1:59636 Accepted
+[Tue Nov 14 07:25:34 2023] 127.0.0.1:59636 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Nov 14 07:25:34 2023] 127.0.0.1:59636 Closing
+[Tue Nov 14 07:25:35 2023] 127.0.0.1:59648 Accepted
+[Tue Nov 14 07:25:35 2023] 127.0.0.1:59648 [200]: POST /receiver.php
+[Tue Nov 14 07:25:35 2023] 127.0.0.1:59648 Closing
+[Tue Nov 14 07:25:35 2023] 127.0.0.1:51702 Accepted
+[Tue Nov 14 07:25:37 2023] 127.0.0.1:51702 [200]: POST /receiver.php
+[Tue Nov 14 07:25:37 2023] 127.0.0.1:51702 Closing
+[Tue Nov 14 07:25:39 2023] 127.0.0.1:51706 Accepted
+[Tue Nov 14 07:25:39 2023] 127.0.0.1:51706 [200]: POST /receiver.php
+[Tue Nov 14 07:25:39 2023] 127.0.0.1:51706 Closing
+[Tue Nov 14 07:25:39 2023] 127.0.0.1:51714 Accepted
+[Tue Nov 14 07:25:41 2023] 127.0.0.1:51714 [200]: POST /receiver.php
+[Tue Nov 14 07:25:41 2023] 127.0.0.1:51714 Closing
+[Tue Nov 14 07:25:43 2023] 127.0.0.1:51728 Accepted
+[Tue Nov 14 07:25:43 2023] 127.0.0.1:51728 [200]: POST /receiver.php
+[Tue Nov 14 07:25:43 2023] 127.0.0.1:51728 Closing
+[Tue Nov 14 07:25:43 2023] 127.0.0.1:51736 Accepted
+[Tue Nov 14 07:25:44 2023] 127.0.0.1:51736 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Nov 14 07:25:44 2023] 127.0.0.1:51736 Closing
+[Tue Nov 14 07:25:45 2023] 127.0.0.1:51746 Accepted
+[Tue Nov 14 07:25:45 2023] 127.0.0.1:51746 [200]: POST /receiver.php
+[Tue Nov 14 07:25:45 2023] 127.0.0.1:51746 Closing
+[Tue Nov 14 07:25:45 2023] 127.0.0.1:56796 Accepted
+[Tue Nov 14 07:25:47 2023] 127.0.0.1:56796 [200]: POST /receiver.php
+[Tue Nov 14 07:25:47 2023] 127.0.0.1:56796 Closing
+[Tue Nov 14 07:25:49 2023] 127.0.0.1:56810 Accepted
+[Tue Nov 14 07:25:49 2023] 127.0.0.1:56810 [200]: POST /receiver.php
+[Tue Nov 14 07:25:49 2023] 127.0.0.1:56810 Closing
+[Tue Nov 14 07:25:49 2023] 127.0.0.1:56822 Accepted
+[Tue Nov 14 07:25:51 2023] 127.0.0.1:56822 [200]: POST /receiver.php
+[Tue Nov 14 07:25:51 2023] 127.0.0.1:56822 Closing
+[Tue Nov 14 07:25:53 2023] 127.0.0.1:56826 Accepted
+[Tue Nov 14 07:25:53 2023] 127.0.0.1:56826 [200]: POST /receiver.php
+[Tue Nov 14 07:25:53 2023] 127.0.0.1:56826 Closing
+[Tue Nov 14 07:25:53 2023] 127.0.0.1:56828 Accepted
+[Tue Nov 14 07:25:54 2023] 127.0.0.1:56828 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Nov 14 07:25:54 2023] 127.0.0.1:56828 Closing
+[Tue Nov 14 07:25:55 2023] 127.0.0.1:56838 Accepted
+[Tue Nov 14 07:25:55 2023] 127.0.0.1:56838 [200]: POST /receiver.php
+[Tue Nov 14 07:25:55 2023] 127.0.0.1:56838 Closing
+[Tue Nov 14 07:25:55 2023] 127.0.0.1:39754 Accepted
+[Tue Nov 14 07:25:57 2023] 127.0.0.1:39754 [200]: POST /receiver.php
+[Tue Nov 14 07:25:57 2023] 127.0.0.1:39754 Closing
+[Tue Nov 14 07:25:59 2023] 127.0.0.1:39766 Accepted
+[Tue Nov 14 07:25:59 2023] 127.0.0.1:39766 [200]: POST /receiver.php
+[Tue Nov 14 07:25:59 2023] 127.0.0.1:39766 Closing
+[Tue Nov 14 07:25:59 2023] 127.0.0.1:39772 Accepted
+[Tue Nov 14 07:26:01 2023] 127.0.0.1:39772 [200]: POST /receiver.php
+[Tue Nov 14 07:26:01 2023] 127.0.0.1:39772 Closing
+[Tue Nov 14 07:26:03 2023] 127.0.0.1:39788 Accepted
+[Tue Nov 14 07:26:03 2023] 127.0.0.1:39788 [200]: POST /receiver.php
+[Tue Nov 14 07:26:03 2023] 127.0.0.1:39788 Closing
+[Tue Nov 14 07:26:03 2023] 127.0.0.1:39792 Accepted
+[Tue Nov 14 07:26:04 2023] 127.0.0.1:39792 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Nov 14 07:26:04 2023] 127.0.0.1:39792 Closing
+[Tue Nov 14 07:26:05 2023] 127.0.0.1:39808 Accepted
+[Tue Nov 14 07:26:05 2023] 127.0.0.1:39808 [200]: POST /receiver.php
+[Tue Nov 14 07:26:05 2023] 127.0.0.1:39808 Closing
+[Tue Nov 14 07:26:05 2023] 127.0.0.1:56350 Accepted
+[Tue Nov 14 07:26:07 2023] 127.0.0.1:56350 [200]: POST /receiver.php
+[Tue Nov 14 07:26:07 2023] 127.0.0.1:56350 Closing
+[Tue Nov 14 07:26:09 2023] 127.0.0.1:56366 Accepted
+[Tue Nov 14 07:26:09 2023] 127.0.0.1:56366 [200]: POST /receiver.php
+[Tue Nov 14 07:26:09 2023] 127.0.0.1:56366 Closing
+[Tue Nov 14 07:26:09 2023] 127.0.0.1:56372 Accepted
+[Tue Nov 14 07:26:11 2023] 127.0.0.1:56372 [200]: POST /receiver.php
+[Tue Nov 14 07:26:11 2023] 127.0.0.1:56372 Closing
+[Tue Nov 14 07:26:13 2023] 127.0.0.1:56386 Accepted
+[Tue Nov 14 07:26:13 2023] 127.0.0.1:56386 [200]: POST /receiver.php
+[Tue Nov 14 07:26:13 2023] 127.0.0.1:56386 Closing
+[Tue Nov 14 07:26:13 2023] 127.0.0.1:56396 Accepted
+[Tue Nov 14 07:26:14 2023] 127.0.0.1:56396 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Nov 14 07:26:14 2023] 127.0.0.1:56396 Closing
+[Tue Nov 14 07:26:15 2023] 127.0.0.1:56402 Accepted
+[Tue Nov 14 07:26:15 2023] 127.0.0.1:56402 [200]: POST /receiver.php
+[Tue Nov 14 07:26:15 2023] 127.0.0.1:56402 Closing
+[Tue Nov 14 07:26:15 2023] 127.0.0.1:55152 Accepted
+[Tue Nov 14 07:26:17 2023] 127.0.0.1:55152 [200]: POST /receiver.php
+[Tue Nov 14 07:26:17 2023] 127.0.0.1:55152 Closing
+[Tue Nov 14 07:26:19 2023] 127.0.0.1:55160 Accepted
+[Tue Nov 14 07:26:19 2023] 127.0.0.1:55160 [200]: POST /receiver.php
+[Tue Nov 14 07:26:19 2023] 127.0.0.1:55160 Closing
+[Tue Nov 14 07:26:19 2023] 127.0.0.1:55162 Accepted
+[Tue Nov 14 07:26:21 2023] 127.0.0.1:55162 [200]: POST /receiver.php
+[Tue Nov 14 07:26:21 2023] 127.0.0.1:55162 Closing
+[Tue Nov 14 07:26:23 2023] 127.0.0.1:55164 Accepted
+[Tue Nov 14 07:26:23 2023] 127.0.0.1:55164 [200]: POST /receiver.php
+[Tue Nov 14 07:26:23 2023] 127.0.0.1:55164 Closing
+[Tue Nov 14 07:26:23 2023] 127.0.0.1:55170 Accepted
+[Tue Nov 14 07:26:24 2023] 127.0.0.1:55170 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Nov 14 07:26:24 2023] 127.0.0.1:55170 Closing
+[Tue Nov 14 07:26:25 2023] 127.0.0.1:55184 Accepted
+[Tue Nov 14 07:26:25 2023] 127.0.0.1:55184 [200]: POST /receiver.php
+[Tue Nov 14 07:26:25 2023] 127.0.0.1:55184 Closing
+[Tue Nov 14 07:26:25 2023] 127.0.0.1:42200 Accepted
+[Tue Nov 14 07:26:27 2023] 127.0.0.1:42200 [200]: POST /receiver.php
+[Tue Nov 14 07:26:27 2023] 127.0.0.1:42200 Closing
+[Tue Nov 14 07:26:29 2023] 127.0.0.1:42210 Accepted
+[Tue Nov 14 07:26:29 2023] 127.0.0.1:42210 [200]: POST /receiver.php
+[Tue Nov 14 07:26:29 2023] 127.0.0.1:42210 Closing
+[Tue Nov 14 07:26:29 2023] 127.0.0.1:42212 Accepted
+[Tue Nov 14 07:26:31 2023] 127.0.0.1:42212 [200]: POST /receiver.php
+[Tue Nov 14 07:26:31 2023] 127.0.0.1:42212 Closing
+[Tue Nov 14 07:26:33 2023] 127.0.0.1:42216 Accepted
+[Tue Nov 14 07:26:33 2023] 127.0.0.1:42216 [200]: POST /receiver.php
+[Tue Nov 14 07:26:33 2023] 127.0.0.1:42216 Closing
+[Tue Nov 14 07:26:33 2023] 127.0.0.1:42224 Accepted
+[Tue Nov 14 07:26:34 2023] 127.0.0.1:42224 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Nov 14 07:26:34 2023] 127.0.0.1:42224 Closing
+[Tue Nov 14 07:26:35 2023] 127.0.0.1:42226 Accepted
+[Tue Nov 14 07:26:35 2023] 127.0.0.1:42226 [200]: POST /receiver.php
+[Tue Nov 14 07:26:35 2023] 127.0.0.1:42226 Closing
+[Tue Nov 14 07:26:35 2023] 127.0.0.1:40268 Accepted
+[Tue Nov 14 07:26:37 2023] 127.0.0.1:40268 [200]: POST /receiver.php
+[Tue Nov 14 07:26:37 2023] 127.0.0.1:40268 Closing
+[Tue Nov 14 07:26:39 2023] 127.0.0.1:40274 Accepted
+[Tue Nov 14 07:26:39 2023] 127.0.0.1:40274 [200]: POST /receiver.php
+[Tue Nov 14 07:26:39 2023] 127.0.0.1:40274 Closing
+[Tue Nov 14 07:26:39 2023] 127.0.0.1:40290 Accepted
+[Tue Nov 14 07:26:41 2023] 127.0.0.1:40290 [200]: POST /receiver.php
+[Tue Nov 14 07:26:41 2023] 127.0.0.1:40290 Closing
+[Tue Nov 14 07:26:43 2023] 127.0.0.1:40304 Accepted
+[Tue Nov 14 07:26:43 2023] 127.0.0.1:40304 [200]: POST /receiver.php
+[Tue Nov 14 07:26:43 2023] 127.0.0.1:40304 Closing
+[Tue Nov 14 07:26:43 2023] 127.0.0.1:40308 Accepted
+[Tue Nov 14 07:26:44 2023] 127.0.0.1:40308 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Nov 14 07:26:44 2023] 127.0.0.1:40308 Closing
+[Tue Nov 14 07:26:45 2023] 127.0.0.1:40318 Accepted
+[Tue Nov 14 07:26:45 2023] 127.0.0.1:40318 [200]: POST /receiver.php
+[Tue Nov 14 07:26:45 2023] 127.0.0.1:40318 Closing
+[Tue Nov 14 07:26:45 2023] 127.0.0.1:49732 Accepted
+[Tue Nov 14 07:26:47 2023] 127.0.0.1:49732 [200]: POST /receiver.php
+[Tue Nov 14 07:26:47 2023] 127.0.0.1:49732 Closing
+[Tue Nov 14 07:26:49 2023] 127.0.0.1:49736 Accepted
+[Tue Nov 14 07:26:49 2023] 127.0.0.1:49736 [200]: POST /receiver.php
+[Tue Nov 14 07:26:49 2023] 127.0.0.1:49736 Closing
+[Tue Nov 14 07:26:49 2023] 127.0.0.1:49746 Accepted
+[Tue Nov 14 07:26:51 2023] 127.0.0.1:49746 [200]: POST /receiver.php
+[Tue Nov 14 07:26:51 2023] 127.0.0.1:49746 Closing
+[Tue Nov 14 07:26:53 2023] 127.0.0.1:49756 Accepted
+[Tue Nov 14 07:26:53 2023] 127.0.0.1:49756 [200]: POST /receiver.php
+[Tue Nov 14 07:26:53 2023] 127.0.0.1:49756 Closing
+[Tue Nov 14 07:26:53 2023] 127.0.0.1:49766 Accepted
+[Tue Nov 14 07:26:54 2023] 127.0.0.1:49766 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Nov 14 07:26:54 2023] 127.0.0.1:49766 Closing
+[Tue Nov 14 07:26:55 2023] 127.0.0.1:49780 Accepted
+[Tue Nov 14 07:26:55 2023] 127.0.0.1:49780 [200]: POST /receiver.php
+[Tue Nov 14 07:26:55 2023] 127.0.0.1:49780 Closing
+[Tue Nov 14 07:26:55 2023] 127.0.0.1:46150 Accepted
+[Tue Nov 14 07:26:57 2023] 127.0.0.1:46150 [200]: POST /receiver.php
+[Tue Nov 14 07:26:57 2023] 127.0.0.1:46150 Closing
+[Tue Nov 14 07:26:59 2023] 127.0.0.1:46162 Accepted
+[Tue Nov 14 07:26:59 2023] 127.0.0.1:46162 [200]: POST /receiver.php
+[Tue Nov 14 07:26:59 2023] 127.0.0.1:46162 Closing
+[Tue Nov 14 07:26:59 2023] 127.0.0.1:46168 Accepted
+[Tue Nov 14 07:27:01 2023] 127.0.0.1:46168 [200]: POST /receiver.php
+[Tue Nov 14 07:27:01 2023] 127.0.0.1:46168 Closing
